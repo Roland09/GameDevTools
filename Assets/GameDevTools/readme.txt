@@ -24,3 +24,10 @@ Runtime weather and time changes
 Screenshot
 ----------------------------------
 Add the script to a gameobject. During runtime hit the key which was specified in the inspector in order to create a screenshot
+
+==================================
+Credits
+==================================
+
+* Screenshot Tool
+  Original version written by Chris Bellini and published as public domain to http://untitledgam.es
